@@ -15,7 +15,7 @@ def run():
     server.run(host="0.0.0.0", port=10000)
 
 # O teu Token do Telegram
-TOKEN = "8227900082:AAEMxoasdVlr4sNm6nMaBxhksyyJBPrupUM"
+TOKEN = "8227900082:"AAGqkCKieoIvtdpKFH4czXpDnwwPRxz8vIc"
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
