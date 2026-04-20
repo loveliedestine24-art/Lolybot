@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-yfinance --upgrade
-flask
-pandas
